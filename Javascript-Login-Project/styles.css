@@ -1,0 +1,25 @@
+#login {
+    color:blue;
+    font-size: large;
+}
+
+#address{
+    background-color: rgb(246, 246,246);;
+}
+
+#password{
+    background-color: rgb(246, 246,246);
+}
+
+.box{
+    width: 300px;
+    height: auto;
+}
+.box{
+    margin-top: 200px;
+    margin-left: 600px;
+    background-color:rgb(177, 184, 184);
+}
+#button{
+    background-color: brown;
+}
